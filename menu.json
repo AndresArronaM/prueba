@@ -1,0 +1,34 @@
+{
+    "menu":[
+        {
+            "Name":"Documentacion",
+            "Carpeta":"Doc",
+            "Archivo":"Documentation.html"
+        },
+        {
+            "Name":"Colores",
+            "Carpeta":"Colors",
+            "Archivo":"Colors.html"
+        },
+        {
+            "Name":"CLI",
+            "Carpeta":"Cli",
+            "Archivo":"Cli.html"
+        },
+        {
+            "Name":"Cambios",
+            "Carpeta":"Changelog",
+            "Archivo":"Changelog.html"
+        },
+        {
+            "Name":"UX",
+            "Carpeta":"UX",
+            "Archivo":"Style_Guide.html"
+        },
+        {
+            "Name":"Blog",
+            "Carpeta":"Blog",
+            "Archivo":"Blog.html"
+        }
+    ]
+}
